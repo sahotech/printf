@@ -1,2 +1,5 @@
-Team Project Printf 
-This project is being done by Peter Saho and Kesta Nyavor 
+# Printf project, our first ALX team project                                                                                            
+# Creating Printf Function                                                                                                              
+### collaborators:                                                                                                                      
+* PETER SAHU                                                                                                            
+* KESTA NYAVOR
