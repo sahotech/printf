@@ -1,13 +1,12 @@
-##Printf Project
+Printf Project
 
 This is our First Team Project as Student of ALX Software Engineering Programm
 
 
 
-##Creating Printf Function
+Creating Printf Function
 
-#Collaborators:
+Collaborators:
 
-##PETER SAHO
-
-##KESTA NYAVOR
+PETER SAHO
+KESTA NYAVOR
